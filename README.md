@@ -1,6 +1,8 @@
 # -_serie_de_6_en_6_intelliJ_javaFX-oracle_19C:.
 # Serie de 6 en 6 - Java IntelliJ JavaFX + Oracle 19c .
 
+<img width="2554" height="1079" alt="image" src="https://github.com/user-attachments/assets/96abb99d-fbf5-401a-8750-f6d9413e716d" />  
+
 ## Descripción:
 
 Aplicación Java desarrollada en IntelliJ IDEA que genera una serie numérica sumando de 6 en 6, muestra el resultado en una interfaz gráfica JavaFX y lo registra en una base de datos Oracle 19c .
