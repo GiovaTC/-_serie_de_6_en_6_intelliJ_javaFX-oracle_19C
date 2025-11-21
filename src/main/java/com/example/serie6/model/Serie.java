@@ -6,6 +6,6 @@ public class Serie {
         for (int i = 0; i <= limite; i += 6) {
             suma += i;
         }
-        return suma;    
+        return suma;
     }
 }
