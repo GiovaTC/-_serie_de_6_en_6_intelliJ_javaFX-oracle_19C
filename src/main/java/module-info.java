@@ -5,6 +5,7 @@ module com.example.serie6 {
     requires org.controlsfx.controls;
     requires net.synedra.validatorfx;
     requires org.kordamp.bootstrapfx.core;
+    requires java.sql;
 
     opens com.example.serie6 to javafx.fxml;
     exports com.example.serie6;
